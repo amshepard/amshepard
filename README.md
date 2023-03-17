@@ -27,8 +27,8 @@ linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)
 ### 👀 Languages and Tools :
 
 <div>
-<img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-<img src="[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyholidaysnow.co.uk%2Fproduct%2Fmore-destinations-coming-soon%2F&psig=AOvVaw13_lBob0RyqFm0-1z2l2T4&ust=1679112059862000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKi3oYCK4v0CFQAAAAAdAAAAABAJ)" title="More"  alt="More coming soon" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyholidaysnow.co.uk%2Fproduct%2Fmore-destinations-coming-soon%2F&psig=AOvVaw13_lBob0RyqFm0-1z2l2T4&ust=1679112059862000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKi3oYCK4v0CFQAAAAAdAAAAABAJ" title="More"  alt="More coming soon" width="40" height="40"/> 
  
 </div>
 
