@@ -19,9 +19,6 @@ linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a> </p>
-
 ---
 
 ### 👀 Languages and Tools :
