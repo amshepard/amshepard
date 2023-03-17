@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey World 👋🌎— <br>I'm Antoine M. Shepard</h1>
 <h3 align="center">Fullstack Software Developer At Pursuit With A Passion For Learning</h3>
-<img align="center" alt="the word javascipt following by a power slide tool switching from off to on" width="200" src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif">
+<img src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif" align="center" alt="the word javascipt following by a power slide tool switching from off to on" width="200" >
 
 ---
 
