@@ -10,7 +10,7 @@ About Me :
 
 - 👨‍🏫 I’m currently learning **Javascript, HTML & CSS**
 - 🖼 I love contemporary/ “street” / pop art & their ensuing collabs. **Think Charmaine Chanakira, KAWS, Kara Walker Kehinde Wiley, FUTURA 2000, Shantell Martin, Takashi Murakami**, etc…
-- 📩 **How to reach me**  |  ****[antoineshepard@pursuit.org](mailto:antoineshepard@pursuit.org)
+- 📩 **How to reach me**  |  [antoineshepard@pursuit.org](mailto:antoineshepard@pursuit.org)
 - 🥭 **Fun fact** I am the only person on the planet that dislikes mangoes.
 
 <h3 align="left">Link with me:
