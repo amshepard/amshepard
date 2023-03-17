@@ -14,9 +14,7 @@ About Me :
 - 📩 **How to reach me**  |  [antoineshepard@pursuit.org](mailto:antoineshepard@pursuit.org)
 - 🥭 **Fun fact** I am the only person on the planet that dislikes mangoes.
 
-<h3 align="left">Link with me:
-
-linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)</h3>
+<h3 align="left">Link with me: [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)</h3>
 <p align="left">
 </p>
 
