@@ -24,8 +24,8 @@ linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)
 ### 👀 Languages and Tools :
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-<img src="https://myholidaysnow.co.uk/wp-content/uploads/2015/09/More.png" title="More" alt="More coming soon" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/> 
+<img src="https://myholidaysnow.co.uk/wp-content/uploads/2015/09/More.png" title="More" alt="More coming soon" width="80" height="80"/> 
  
 </div>
 
