@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey World 👋🌎— <br>I'm Antoine M. Shepard</h1>
 <h3 align="center">Fullstack Software Developer At Pursuit With A Passion For Learning</h3>
-<img src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif" align="center" alt="the word javascipt following by a power slide tool switching from off to on" width="200" >
+
 
 ---
 
@@ -27,7 +27,7 @@ linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/> 
 <img src="https://myholidaysnow.co.uk/wp-content/uploads/2015/09/More.png" title="More" alt="More coming soon" width="80" height="80"/> 
- 
+<img src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif" align="center" alt="the word javascipt following by a power slide tool switching from off to on" width="200" >
 </div>
 
 ---
