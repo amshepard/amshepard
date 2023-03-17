@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey World 👋🌎— <br>I'm Antoine M. Shepard</h1>
 <h3 align="center">Fullstack Software Developer At Pursuit With A Passion For Learning</h3>
-<img align="right" alt="pic" width="400" src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif">
+<img align="right" alt="pic" width="the word javascipt following by a power slide tool switching from off to on" src="https://media.wired.com/photos/59322df1a312645844993529/master/w_1600%2Cc_limit/testing.gif">
 
 ---
 
@@ -20,7 +20,7 @@ linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a> </p>
 
 ---
 
