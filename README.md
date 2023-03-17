@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey World 👋🌎, I'm **Antoine M. Shepard**</h1>
+<h1 align="center">Hey World 👋🌎, I'm Antoine M. Shepard</h1>
 <h3 align="center">Fullstack Software Developer At Pursuit With A Passion For Learning</h3>
 <img align="right" alt="pic" width="400" src="[https://3.bp.blogspot.com/-vHuQ-Bn6lTg/V-qRgGtUZ7I/AAAAAAAAB8Y/LpyekK2EshEWsdWSGHCHmTrB1JC6G11hwCLcB/s640/javascript%2Bcodebehind.gif](https://3.bp.blogspot.com/-vHuQ-Bn6lTg/V-qRgGtUZ7I/AAAAAAAAB8Y/LpyekK2EshEWsdWSGHCHmTrB1JC6G11hwCLcB/s640/javascript%2Bcodebehind.gif)">
 
