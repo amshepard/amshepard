@@ -16,7 +16,7 @@ About Me :
 
 <h3 align="left">Link with me:
 
-linkedin -> [Antoine M. Shepard on LinkedIn](<href="https://www.linkedin.com/in/ams83/")</h3>
+linkedin -> [Antoine M. Shepard on LinkedIn](https://www.linkedin.com/in/ams83/)</h3>
 <p align="left">
 </p>
 
