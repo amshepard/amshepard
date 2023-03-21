@@ -8,7 +8,7 @@
 
 About Me :
 
-- 👨‍🏫 I’m currently learning **Javascript, HTML & CSS**
+- 👨‍🏫 I’m currently learning **Javascript, HTML & CSS**. I am particularly interested in exploring the intersection of the advancement of technology and social impact.
 - 🖼 I love contemporary / “street” / pop art & their ensuing collabs. 
       <br>     **Think Charmaine Chanakira, KAWS, Kara Walker Kehinde Wiley, FUTURA 2000, Shantell Martin, Takashi Murakami**, etc…
 - 📩 **How to reach me**  |  [antoineshepard@pursuit.org](mailto:antoineshepard@pursuit.org)
